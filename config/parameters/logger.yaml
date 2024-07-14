@@ -1,0 +1,3 @@
+parameters:
+  log.file.path: "%jooblo.log.file_path%"
+  log.name: "%jooblo.log.name%"
