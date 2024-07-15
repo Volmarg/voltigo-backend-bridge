@@ -1,6 +1,6 @@
 {
     "type": "library",
-    "name": "volmarg/voltigo-bridge",
+    "name": "volmarg/voltigo-backend-bridge",
     "description": "Bridge for communication with Voltigo",
     "license": "proprietary",
     "minimum-stability": "dev",
